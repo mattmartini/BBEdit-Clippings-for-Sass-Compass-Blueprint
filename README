@@ -1,0 +1,13 @@
+This is a BBEdit clippings set for working with SASS documents; 
+it includes mixins for SASS, Compass, and Blueprint (via Compass).
+
+Usage:
+
+Place the SASS.sass directory in ~/Library/Application Support/BBEdit/Clippings/
+
+Note, this is for working with Sass2 (Haml 2.2.23) and Compass 0.8.17.  
+A new fork for Haml 3 and Compass 0.10 is in progress.
+
+Good Luck!
+
+Matt
