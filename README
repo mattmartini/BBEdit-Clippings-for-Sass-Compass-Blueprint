@@ -1,6 +1,10 @@
 This is a BBEdit clippings set for working with SASS documents; 
 it includes mixins for SASS, Compass, and Blueprint (via Compass).
 
+All of the clippings include the mixin options enumerated.  
+Just tab and use the one you want.
+
+
 Usage:
 
 Place the SASS.sass directory in ~/Library/Application Support/BBEdit/Clippings/
