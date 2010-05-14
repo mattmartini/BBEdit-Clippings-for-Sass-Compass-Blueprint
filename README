@@ -9,8 +9,19 @@ Usage:
 
 Place the SASS.sass directory in ~/Library/Application Support/BBEdit/Clippings/
 
-Note, this is for working with Sass2 (Haml 2.2.23) and Compass 0.8.17.  
-A new fork for Haml 3 and Compass 0.10 is in progress.
+Clippings Split for new release of HAML/SASS/Compass
+
+  HAML.haml
+  SASS.sass
+
+Are for the new versions of HAML/SASS (3.0.0+) and Compass (0.10.0)
+
+  SASS2.sass
+
+Is for working with Sass2 (Haml 2.2.24) and Compass 0.8.17.  
+
+I probably will do a SASS.sccs conversion when SASS.sass is finished.
+
 
 Good Luck!
 
