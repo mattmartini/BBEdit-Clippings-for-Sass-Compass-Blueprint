@@ -1,3 +1,3 @@
-:text-decoration #placeholderstart#none|underline|line-through#placeholderend#
+text-decoration: #placeholderstart#none|underline|line-through#placeholderend#
 #indent#
 #inline#

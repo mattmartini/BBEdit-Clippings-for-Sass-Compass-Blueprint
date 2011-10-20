@@ -1,3 +1,3 @@
-:margin #placeholderstart#top#placeholderend# #placeholderstart#right#placeholderend# #placeholderstart#bottom#placeholderend# #placeholderstart#left#placeholderend#
+margin: #placeholderstart#top#placeholderend# #placeholderstart#right#placeholderend# #placeholderstart#bottom#placeholderend# #placeholderstart#left#placeholderend#
 #indent#
 #inline#

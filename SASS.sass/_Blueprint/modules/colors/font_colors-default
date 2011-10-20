@@ -1,35 +1,38 @@
-!font_color            = #333
-!quiet_color           = !font_color + #333
-!loud_color            = !font_color - #222
+// Default Blueprint Font Colors
+$font_color:            #333333
+$quiet_color:           $font_color + #333333
+$loud_color:            $font_color - #222222
+ 
+$header_color:          $font_color - #111111
+ 
+$alt-text-color:        #666666
+ 
+$link_color:            #000099
+$link_hover_color:      #000000
+$link_focus_color:      $link_hover_color
+$link_active_color:     $link_color + #cc0000
+$link_visited_color:    $link_color - #333333
+ 
+$feedback_border_color: #dddddd
+$success_color:         #264409
+$success_bg_color:      #e6efc2
+$success_border_color:  #c6d880
+ 
+$notice_color:          #514721
+$notice_bg_color:       #fff6bf
+$notice_border_color:   #ffd324
+ 
+$error_color:           #8a1f11
+$error_bg_color:        #fbe3e4
+$error_border_color:    #fbc2c4
+ 
+$highlight_color:       #ffff00
+$added_color:           #ffffff
+$added_bg_color:        #006600
+$removed_color:         #ffffff
+$removed_bg_color:      #990000
 
-!header_color          = !font_color - #111
-
-!link_color            = #009
-!link_hover_color      = #000
-!link_focus_color      = !link_hover_color
-!link_active_color     = !link_color + #C00
-!link_visited_color    = !link_color - #333
-
-!feedback_border_color = #DDD
-!success_color         = #264409
-!success_bg_color      = #E6EFC2
-!success_border_color  = #C6D880
-
-!notice_color          = #514721
-!notice_bg_color       = #FFF6BF
-!notice_border_color   = #FFD324
-
-!error_color           = #8A1F11
-!error_bg_color        = #FBE3E4
-!error_border_color    = #FBC2C4
-
-!highlight_color       = #FF0
-!added_color           = #FFF
-!added_bg_color        = #060
-!removed_color         = #FFF
-!removed_bg_color      = #900
-
-!blueprint_table_header_color = #C3D9FF
-!blueprint_table_stripe_color = #E5ECF9
+$blueprint_table_header_color: #c3d9ff
+$blueprint_table_stripe_color: #e5ecf9
 #indent#
 #inline#

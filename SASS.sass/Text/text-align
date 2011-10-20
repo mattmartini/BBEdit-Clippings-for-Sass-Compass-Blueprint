@@ -1,3 +1,3 @@
-:text-align #placeholderstart#left|center|right|justify#placeholderend#
+text-align: #placeholderstart#left|center|right|justify#placeholderend#
 #indent#
 #inline#

@@ -1,3 +1,5 @@
-!blueprint_button_font_family = "\"Lucida Grande\", Tahoma, Arial, Verdana, sans-serif"
+$blueprint_button_font_family: unquote('"Lucida Grande", Tahoma, Arial, Verdana, sans-serif')
+
 #indent#
+
 #inline#
