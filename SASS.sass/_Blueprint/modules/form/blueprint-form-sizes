@@ -1,0 +1,3 @@
++blueprint-form(#placeholderstart#$input-width: 300px#placeholderend#, #placeholderstart#$textarea-width: 390px#placeholderend#, #placeholderstart#$textarea-height: 250px#placeholderend#)
+#indent#
+#inline#

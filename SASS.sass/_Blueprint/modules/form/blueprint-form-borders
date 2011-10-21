@@ -1,0 +1,3 @@
++blueprint-form(#placeholderstart#$unfocused-border-color: #bbbbbb#placeholderend#, #placeholderstart#$focus-border-color: #666666#placeholderend#, #placeholderstart#$fieldset-border-color: #cccccc#placeholderend#)
+#indent#
+#inline#
