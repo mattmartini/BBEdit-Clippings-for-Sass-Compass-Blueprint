@@ -1,0 +1,3 @@
++link-icons(#placeholderstart#$name#placeholderend#, #placeholderstart#$include-base: true#placeholderend#)
+#indent#
+#inline#
