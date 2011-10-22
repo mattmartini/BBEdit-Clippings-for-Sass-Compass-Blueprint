@@ -1,0 +1,8 @@
+// Configurable Variables
+$blueprint_grid_columns:        24
+$blueprint_grid_width:          30px
+$blueprint_grid_margin:         10px
+
+// Constants
+$blueprint-grid-outer-width:    $blueprint-grid-width + $blueprint-grid-margin
+$blueprint-container-size:      $blueprint-grid-outer-width * $blueprint-grid-columns - $blueprint-grid-margin
