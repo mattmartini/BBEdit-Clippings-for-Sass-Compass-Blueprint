@@ -1,0 +1,15 @@
+// Configurable Variables
+$blueprint_liquid_grid_columns:     24
+$blueprint_liquid_grid_width:       3.167%
+$blueprint_liquid_grid_margin:      1.042%
+$blueprint-liquid-container-width:  80%
+
+// don't change below
+$blueprint-liquid-container-min-width:  950px
+$blueprint-liquid-grid-push-pull:       -($blueprint-liquid-grid-margin + $blueprint-liquid-grid-width)
+
+// Functions
+span-fluid($n)  // Return the width of $n columns in percents.
+
+#indent#
+#inline#
