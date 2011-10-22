@@ -1,0 +1,5 @@
+$blueprint-font-family:         #placeholderstart#"Helvetica Neue, Arial, Helvetica, sans-serif"#placeholderend#
+$blueprint-fixed-font-family:   #placeholderstart#"andale mono", "lucida console", monospace#placeholderend#
+$blueprint-font-size:           12px
+#indent#
+#inline#
