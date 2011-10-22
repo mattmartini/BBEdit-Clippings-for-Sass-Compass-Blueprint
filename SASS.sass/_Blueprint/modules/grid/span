@@ -1,3 +1,4 @@
-+span(#placeholderstart#!n#placeholderend#, #placeholderstart#!override = false#placeholderend#)
+//The span mixin is deprecated. Please use the span function instead. E.g. width: span(#{$n})
++span(#placeholderstart#$n#placeholderend#, #placeholderstart#!important: false#placeholderend#)
 #indent#
 #inline#

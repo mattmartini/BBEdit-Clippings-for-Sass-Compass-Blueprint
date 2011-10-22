@@ -1,0 +1,16 @@
+// Configurable Variables
+$blueprint-grid-columns:    24
+$blueprint-grid-width:      30px
+$blueprint-grid-margin:     10px
+
+// Constants
+$blueprint-grid-outer-width: $blueprint-grid-width + $blueprint-grid-margin // 40px
+$blueprint-container-size:   $blueprint-grid-outer-width * $blueprint-grid-columns - $blueprint-grid-margin // 950px
+
+// Use this to calculate the width based on the total width.
+// Or you can set $blueprint-grid-width to a fixed value and unset $blueprint-container-size -- it will be calculated for you.
+//$blueprint-container-size : 950px
+//$blueprint-grid-width: ($blueprint-container-size + $blueprint-grid-margin) / $blueprint-grid-columns - $blueprint-grid-margin
+
+// Functions
+span($n)            //Return the width in pixels of $n columns.
