@@ -1,0 +1,3 @@
++box-align(#placeholderstart#$alignment: $default-box-align#placeholderend#)
+#indent#
+#inline#

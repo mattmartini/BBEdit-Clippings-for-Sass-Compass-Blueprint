@@ -1,0 +1,10 @@
+$default-box-orient: #placeholderstart#horizontal|vertical|inline-axis|block-axis|inherit#placeholderend#
+$default-box-align: #placeholderstart#start|end|center|baseline|stretch#placeholderend#
+$default-box-flex: 0
+$default-box-flex-group: 1
+$default-box-ordinal-group: 1
+$default-box-direction: #placeholderstart#normal|reverse|inherit#placeholderend#
+$default-box-lines:  #placeholderstart#single|multiple#placeholderend#
+$default-box-pack: #placeholderstart#start|end|center|justify#placeholderend#
+#indent#
+#inline#
