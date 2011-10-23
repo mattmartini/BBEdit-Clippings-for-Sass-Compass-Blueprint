@@ -1,0 +1,9 @@
+// Configurable Variables
+$pie-base-class:        false
+$pie-default-approach:  #placeholderstart#relative|z-index|none#placeholderend#
+$pie-behavior:          stylesheet-url("PIE.htc")
+
+// Constants
+$experimental-support-for-pie: true
+#indent#
+#inline#
