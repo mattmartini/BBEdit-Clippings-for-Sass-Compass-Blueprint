@@ -1,0 +1,3 @@
++column-rule(#placeholderstart#$width#placeholderend#, #placeholderstart#$style: false#placeholderend#, #placeholderstart#$color: false#placeholderend#)
+#indent#
+#inline#
