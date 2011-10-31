@@ -1,0 +1,3 @@
++transition-property(#placeholderstart#$properties: $default-transition-property|all|none#placeholderend#)
+#indent#
+#inline#

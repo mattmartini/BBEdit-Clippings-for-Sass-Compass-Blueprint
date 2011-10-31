@@ -1,0 +1,3 @@
++transition-delay(#placeholderstart#$delay: $default-transition-delay#placeholderend#)
+#indent#
+#inline#

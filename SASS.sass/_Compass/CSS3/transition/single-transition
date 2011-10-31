@@ -1,0 +1,3 @@
++single-transition(#placeholderstart#$properties: $default-transition-property#placeholderend#,#placeholderstart# $duration: $default-transition-duration#placeholderend#,#placeholderstart# $function: $default-transition-function#placeholderend#,#placeholderstart# $delay: $default-transition-delay#placeholderend#)
+#indent#
+#inline#

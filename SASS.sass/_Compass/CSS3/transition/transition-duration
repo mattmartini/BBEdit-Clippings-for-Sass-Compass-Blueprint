@@ -1,0 +1,3 @@
++transition-duration(#placeholderstart#$duration: $default-transition-duration#placeholderend#)
+#indent#
+#inline#
