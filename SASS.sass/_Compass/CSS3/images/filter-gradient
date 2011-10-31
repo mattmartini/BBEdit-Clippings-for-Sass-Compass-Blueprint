@@ -1,0 +1,3 @@
+filter-gradient(#placeholderstart#$start-color#placeholderend#,#placeholderstart# $end-color#placeholderend#, #placeholderstart#$orientation: vertical#placeholderend#)
+#indent#
+#inline#
