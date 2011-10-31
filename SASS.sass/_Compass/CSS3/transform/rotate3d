@@ -1,0 +1,3 @@
++rotate3d(#placeholderstart#$vector-x: $default-vector-x#placeholderend#,#placeholderstart# $vector-y: $default-vector-y#placeholderend#,#placeholderstart# $vector-z: $default-vector-z#placeholderend#,#placeholderstart# $rotate: $default-rotate#placeholderend#,#placeholderstart# $perspective: false#placeholderend#)
+#indent#
+#inline#

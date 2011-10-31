@@ -1,0 +1,17 @@
+$default-origin-x:      50%
+$default-origin-y:      50%
+$default-origin-z:      50%
+$default-scale-x:       1.25
+$default-scale-y:       $default-scale-x
+$default-scale-z:       $default-scale-x
+$default-rotate:        45deg
+$default-vector-x:      1
+$default-vector-y:      1
+$default-vector-z:      1
+$default-translate-x:   1em
+$default-translate-y:   $default-translate-x
+$default-translate-z:   $default-translate-x
+$default-skew-x:        5deg
+$default-skew-y:        5deg
+#indent#
+#inline#

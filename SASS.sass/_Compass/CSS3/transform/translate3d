@@ -1,0 +1,3 @@
++translate3d(#placeholderstart#$translate-x: $default-translate-x#placeholderend#,#placeholderstart# $translate-y: $default-translate-y#placeholderend#,#placeholderstart# $translate-z: $default-translate-z#placeholderend#,#placeholderstart# $perspective: false#placeholderend#)
+#indent#
+#inline#

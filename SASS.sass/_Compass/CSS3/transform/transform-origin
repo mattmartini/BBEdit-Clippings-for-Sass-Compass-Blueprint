@@ -1,0 +1,3 @@
++transform-origin(#placeholderstart#$origin-x: $default-origin-x#placeholderend#,#placeholderstart# $origin-y: $default-origin-y#placeholderend#,#placeholderstart# $origin-z: false#placeholderend#,#placeholderstart# $only3d: if($origin-z, true, false)#placeholderend#)
+#indent#
+#inline#
