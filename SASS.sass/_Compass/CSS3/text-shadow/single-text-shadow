@@ -1,0 +1,3 @@
++single-text-shadow(#placeholderstart#$color: $default-text-shadow-color#placeholderend#,#placeholderstart# $hoff: $default-text-shadow-h-offset#placeholderend#,#placeholderstart# $voff: $default-text-shadow-v-offset#placeholderend#,#placeholderstart# $blur: $default-text-shadow-blur#placeholderend#)
+#indent#
+#inline#

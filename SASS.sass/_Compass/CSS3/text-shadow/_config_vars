@@ -1,0 +1,6 @@
+$default-text-shadow-color:     #aaaaaa
+$default-text-shadow-h-offset:  0px
+$default-text-shadow-v-offset:  0px
+$default-text-shadow-blur:      1px
+#indent#
+#inline#
