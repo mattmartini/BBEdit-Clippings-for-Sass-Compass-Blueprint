@@ -1,0 +1,7 @@
+$base-font-size: #placeholderstart#16px#placeholderend#
+$base-line-height: #placeholderstart#24px#placeholderend#
+$default-rhythm-border-style: #placeholderstart#solid#placeholderend#
+$relative-font-sizing: #placeholderstart#true#placeholderend#
+$font-unit if($relative-font-sizing, 1em, $base-font-size)
+#indent#
+#inline#

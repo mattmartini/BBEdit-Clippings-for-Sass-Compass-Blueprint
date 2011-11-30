@@ -1,0 +1,6 @@
+relative-unit($number)            //True if a number has a relative unit
+absolute-unit($number)            //True if a number has an absolute unit
+rhythm($lines, $font-size)        //Calculate rhythm units
+lines-for-font-size($font-size)
+#indent#
+#inline#

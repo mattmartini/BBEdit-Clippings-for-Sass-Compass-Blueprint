@@ -1,0 +1,7 @@
+$ie-font-ratio 16px / 100%  //The IE font ratio
+$min-line-padding 2px  //Ensure there is at least this many pixels of vertical padding above and below the text.
+$base-rhythm-unit $base-line-height / $base-font-size * $font-unit  //The basic unit of font rhythm
+$base-leader ($base-line-height - $base-font-size) * $font-unit / $base-font-size  //The leader is the amount of whitespace in a line. 
+$base-half-leader $base-leader / 2  //The half-leader is the amount of whitespace above and below a line.
+#indent#
+#inline#
